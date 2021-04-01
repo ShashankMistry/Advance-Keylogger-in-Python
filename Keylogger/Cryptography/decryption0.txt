@@ -1,0 +1,6 @@
+public ip address: 45.64.215.112
+Processor: Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+System: Windows 10.0.19041
+Machine: AMD64
+Hostname: LAPTOP-H5E88SNF
+Private IP Address: 192.168.207.1

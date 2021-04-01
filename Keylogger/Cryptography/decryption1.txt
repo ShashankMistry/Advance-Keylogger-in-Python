@@ -1,0 +1,50 @@
+Clipboard Data: encrypted_keys_information = "system_files_keys.txt"
+encrypted_system_information = "system_files_info.txt"
+encrypted_clipboard_information = "system_files_text.txt
+Clipboard Data: encrypted_keys_information = "system_files_keys.txt"
+encrypted_system_information = "system_files_info.txt"
+encrypted_clipboard_information = "system_files_text.txt
+Clipboard Data: def remove_files():
+        os.remove(file_merge + clipboard_information)
+        os.remove(file_merge + keys_information)
+        os.remove(file_merge + system_information)
+Clipboard Data: encrypted_keys_information = "system_files_keys.txt"
+encrypted_system_information = "system_files_info.txt"
+encrypted_clipboard_information = "system_files_text.txt
+Clipboard Data: encrypted_keys_information = "system_files_keys.txt"
+encrypted_system_information = "system_files_info.txt"
+encrypted_clipboard_information = "system_files_text.txt
+Clipboard Data: def remove_files():
+        os.remove(file_merge + clipboard_information)
+        os.remove(file_merge + keys_information)
+        os.remove(file_merge + system_information)
+Clipboard Data: encrypted_keys_information = "system_files_keys.txt"
+encrypted_system_information = "system_files_info.txt"
+encrypted_clipboard_information = "system_files_text.txt
+Clipboard Data: encrypted_keys_information = "system_files_keys.txt"
+encrypted_system_information = "system_files_info.txt"
+encrypted_clipboard_information = "system_files_text.txt
+Clipboard Data: def remove_files():
+        os.remove(file_merge + clipboard_information)
+        os.remove(file_merge + keys_information)
+        os.remove(file_merge + system_information)
+Clipboard Data: encrypted_keys_information = "system_files_keys.txt"
+encrypted_system_information = "system_files_info.txt"
+encrypted_clipboard_information = "system_files_text.txt
+Clipboard Data: encrypted_keys_information = "system_files_keys.txt"
+encrypted_system_information = "system_files_info.txt"
+encrypted_clipboard_information = "system_files_text.txt
+Clipboard Data: def remove_files():
+        os.remove(file_merge + clipboard_information)
+        os.remove(file_merge + keys_information)
+        os.remove(file_merge + system_information)
+Clipboard Data: encrypted_keys_information = "system_files_keys.txt"
+encrypted_system_information = "system_files_info.txt"
+encrypted_clipboard_information = "system_files_text.txt
+Clipboard Data: encrypted_keys_information = "system_files_keys.txt"
+encrypted_system_information = "system_files_info.txt"
+encrypted_clipboard_information = "system_files_text.txt
+Clipboard Data: def remove_files():
+        os.remove(file_merge + clipboard_information)
+        os.remove(file_merge + keys_information)
+        os.remove(file_merge + system_information)
