@@ -263,6 +263,7 @@ remove.start()
 
 '''
 Reference:
+https://www.youtube.com/watch?v=25um032xgrw&t=586s
 https://www.geeksforgeeks.org/send-mail-attachment-gmail-account-using-python/?ref=lbp
 https://www.geeksforgeeks.org/send-mail-gmail-account-using-python/
 https://stackoverflow.com/questions/1855095/how-to-create-a-zip-archive-of-a-directory-in-python
