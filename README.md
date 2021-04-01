@@ -13,5 +13,5 @@ It is a Advance keylogger written in python.
 </div>
 * Ecrypted Files example
 <div style="display:flex;">
-<img alt="App image" src="Keylogger/Screenshot/encrypted.jpg" width="50%">
+<img alt="App image" src="Keylogger/Screenshot/encrypted.jpg" width="100%">
 </div>
